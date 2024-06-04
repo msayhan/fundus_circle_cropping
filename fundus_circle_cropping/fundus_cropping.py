@@ -8,6 +8,7 @@ from skimage import feature, transform
 import cv2
 
 from fundus_circle_cropping.circle_em import circle_em
+# from .circle_em import circle_em
 
 import ray
 
